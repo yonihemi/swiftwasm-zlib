@@ -1,0 +1,4 @@
+module SwiftWasmZlib {
+    header "shim.h"
+    export *
+}
